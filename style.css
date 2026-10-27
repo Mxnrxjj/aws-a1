@@ -1,0 +1,21 @@
+body {
+  font-family: system-ui, sans-serif;
+  background: #0f172a;
+  color: #e2e8f0;
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
+main {
+  text-align: center;
+  padding: 2rem;
+}
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+.stamp {
+  color: #93c4fd;
+  font-family: monospace;
+}
